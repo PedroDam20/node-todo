@@ -1,4 +1,4 @@
-## Aplicación de comandos de
+## Aplicación de comandos
 
 Este es un ejercicio de aprendizaje
 
